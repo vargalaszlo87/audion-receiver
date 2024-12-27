@@ -19,6 +19,10 @@ The physical circuit on the test-board:
 
 ![teszt-aramkor](https://github.com/user-attachments/assets/647ce23d-7323-46ea-8c8f-1f434669cf81)
 
+## Input parameters
+
+The frequency of carrier is 545kHz, the modulator frequency is 5kHz and the modulation depth is 70%.
+
 ## Signals from simulation
 
 ![image](https://github.com/user-attachments/assets/5b047411-4153-450a-9c61-1e8b5ec69a6d)
@@ -31,3 +35,15 @@ The physical circuit on the test-board:
 
 The circuit can modulate a lower voltage than the forward voltage of the diode. In this case the peak voltage is ca. 80mV.
 
+## 👨‍⚖️ License
+
+Distributed under the [MIT](https://choosealicense.com/licenses/mit/) License. See `LICENSE.txt` for more information.
+
+
+## 📬 Contact
+
+Varga Laszlo - https://vargalaszlo.com - mail@vargalaszlo.com.com
+
+Project Link: https://github.com/vargalaszlo87/audion-receiver
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://vargalaszlo.com)
