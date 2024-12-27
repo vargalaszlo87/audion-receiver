@@ -27,6 +27,7 @@ The physical circuit on the test-board:
 
 ![bemenet-kimenet](https://github.com/user-attachments/assets/73f5057c-496e-49cf-a2a7-b27ceadb0598)
 
+## Conclusion
 
-
+The circuit can modulate a lower voltage than the forward voltage of the diode. In this case the peak voltage is ca. 80mV.
 
