@@ -9,4 +9,11 @@ In this case the operating point of the transistor isn't on the linear section, 
 (it's a FET, but it works the same as the BJT.)
 ![image](https://github.com/user-attachments/assets/4b2a3d50-a1ba-49bd-ae89-bed94ec1198f)
 
+## The circuit
+
+It's the simulatio in LTSpiceXVII, the name of file is: audion-receiver.asc
+
+![image](https://github.com/user-attachments/assets/b106e68b-a314-4c13-96e9-bbf64e3663bd)
+
+
 
