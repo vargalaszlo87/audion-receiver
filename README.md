@@ -7,5 +7,6 @@ In this case the operating point of the transistor isn't on the linear section, 
 - the transistor "not" (to a small extent.) conducts in the negative period.
 
 (it's a FET, but it works the same as the BJT.)
-![image](https://github.com/user-attachments/assets/e11b48c4-cbec-494d-8af7-00a34b92ddb8)
+![image](https://github.com/user-attachments/assets/4b2a3d50-a1ba-49bd-ae89-bed94ec1198f)
+
 
