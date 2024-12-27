@@ -15,6 +15,10 @@ It's the simulatio in LTSpiceXVII, the name of file is: audion-receiver.asc
 
 ![image](https://github.com/user-attachments/assets/b106e68b-a314-4c13-96e9-bbf64e3663bd)
 
+The physical circuit on the test-board:
+
+![teszt-aramkor](https://github.com/user-attachments/assets/647ce23d-7323-46ea-8c8f-1f434669cf81)
+
 ## Signals from simulation
 
 ![image](https://github.com/user-attachments/assets/5b047411-4153-450a-9c61-1e8b5ec69a6d)
