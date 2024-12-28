@@ -25,7 +25,8 @@ The frequency of carrier is 545kHz, the modulator frequency is 5kHz and the modu
 
 ## Signals from simulation
 
-![image](https://github.com/user-attachments/assets/4440a412-6676-4c7c-882f-1ce604fb17fe)
+![image](https://github.com/user-attachments/assets/db3e8fe8-24c3-4bbb-813d-778100e344ac)
+
 
 ## Signals from measurement
 
