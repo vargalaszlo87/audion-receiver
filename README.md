@@ -34,7 +34,7 @@ The frequency of carrier is 545kHz, the modulator frequency is 5kHz and the modu
 
 ## Conclusion
 
-The circuit can modulate a lower voltage than the forward voltage of the diode. In this case the peak voltage is ca. 80mV.
+The circuit can modulate a lower voltage than the forward voltage of the diode. In this case the peak voltage is ca. 80mV. Goodbye 2024.
 
 ## 👨‍⚖️ License
 
